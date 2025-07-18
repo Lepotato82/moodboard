@@ -1,3 +1,0 @@
-Manifest-Version: 1.0
-Main-Class: com.moodboard.Main
-Created-By: MoodBoard Application
